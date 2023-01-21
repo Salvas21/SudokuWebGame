@@ -7,7 +7,7 @@ On a eu comme défi supplémentaire d'utiliser la programmation immuable dans no
 ## Exemple
 ![game](images-readme/Sudoku.png)
 
-# Rapport de projetå
+# Rapport de projet
 Pour tester et jouer au sudoku, [appuyer ici!](https://sudoku-uqtr-boys.s3.us-east-2.amazonaws.com/index.html)
 
 ## Rapports Phase 1
